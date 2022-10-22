@@ -1,0 +1,25 @@
+{
+  "name": "Gorillas.bas",
+  "version": "0.0.1",
+  "description": "A JavaScript implementation of the classic [GORILLAS.BAS](http://en.wikipedia.org/wiki/Gorillas_%28video_game%29)",
+  "homepage": "https://github.com/AskeFC/GORILLAS.BAS#readme",
+  "repository": "github:AskeFC/GORILLAS.BAS",
+  "author": "Don Smith (https://github.com/theraccoonbear)",
+  "contributors": [
+    {
+      "name": "Aske Færch Christensen",
+      "email": "askefc@gmail.com",
+      "url": "https://github.com/AskeFC"
+    }
+  ],
+  "main": "",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "license": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.14.0"
+  }
+}
