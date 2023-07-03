@@ -14,7 +14,8 @@
   ],
   "main": "",
   "scripts": {
-    "start": "node app.js",
+    "nodestart": "node app.js",
+    "bunstart": "bun app.js",
     "dev": "nodemon app.js"
   },
   "license": "",
