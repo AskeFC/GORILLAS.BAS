@@ -13,6 +13,7 @@
     }
   ],
   "main": "",
+  "type": "module",
   "scripts": {
     "nodestart": "node app.js",
     "bunstart": "bun app.js",
@@ -21,6 +22,6 @@
   "license": "",
   "dependencies": {
     "express": "^4.18.2",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.30.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.31.0"
   }
 }
