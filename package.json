@@ -22,6 +22,6 @@
   "license": "",
   "dependencies": {
     "express": "^4.18.2",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.38.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.39.0"
   }
 }
